@@ -57,24 +57,6 @@ int main()
 		}
 	}
 
-	//fstream out;
-	//char c;
-	//int count = 0;
-	//out.open("path.txt",ios::in);
-	//cout << "path.txt的内容如下：" << endl;
-	//while (!out.eof())
-	//{
-	//	out >> c;
-	//	//cout << c;
-	//	count++;
-	//	/*out.getline(buffer, 256);
-	//	cout << buffer << endl;*/
-	//}
-	//cout << endl;
-	//count--;
-	//cout << "char count is:" << count << endl;
-	//out.close();
-	
 	system("pause");
 	return 0;
 }
